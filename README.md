@@ -45,7 +45,7 @@
 ---
 
 ## 📊 GitHub Stats:  
-![Redwan' GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwan786&show_icons=true&theme=radical)  
+![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwan786&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redwan786&layout=compact&theme=radical)
 
 ---
