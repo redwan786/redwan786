@@ -4,21 +4,18 @@
 
 ---
 
-
 - 🔭 I’m currently working on **Php, SQL**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js, Full-stack Development, MERN Stack**  
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js, MERN Stack**  
 - 🤝 I'm looking to collaborate on **Web Development Projects**  
 - 💼 All of my projects are available at [redwan's room](#)  
 - 📫 How to reach me: **me.redwanhossen@gmail.com**   
   
-
 ---
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-1F2328?logo=gitHub&logoColor=white)](https://github.com/redwan786)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3681CD?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/md-redwan-hossen-685064339/) 
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/me.redwan786)
-
 
 ---
 
@@ -48,11 +45,8 @@
 
 ## 📊 GitHub Stats:
 ![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwan786&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redwan786&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=redwan786&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redwan786&layout=compact&theme=radical)
-
-### Commits (UTC +8:00):
-Average commits are **X/hour**.
 
 ---
 
