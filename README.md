@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Redwan Hossen
+# Hi there! 👋 I'm Redwan
 **🌟A passionate learner and aspiring developer from **Bangladesh**!** 
 **💡 Exploring the world of **Web Development** and **Programming**.**
 
