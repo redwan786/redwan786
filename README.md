@@ -33,7 +33,6 @@
 
 ### Frameworks & Libraries:  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![iGraphics](https://img.shields.io/badge/iGraphics-20232A?style=flat-square&logo=igraphics&logoColor=white)
@@ -47,18 +46,10 @@
 
 ## 📊 GitHub Stats:  
 ![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwan786&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=redwan786&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redwan786&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies:  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=redwan786&theme=radical&no-frame=true&row=1&column=7)
-
----
-
-### 🚀 Future Goals:
-- Contribute to **open-source projects**.  
-- Build a personal **portfolio website**.  
-- Learn **TypeScript** and integrate it into my projects.  
-- Master the **MERN Stack** for full-stack web development.  
+ 
