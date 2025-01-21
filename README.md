@@ -26,9 +26,9 @@
 
 ## Social Links
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/redwan786)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/md-redwan-hossen-685064339/)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/me.redwan786)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20"> GitHub](https://github.com/redwan786) •  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20"> LinkedIn](https://www.linkedin.com/in/md-redwan-hossen-685064339/) •  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20"> Facebook](https://www.facebook.com/me.redwan786)  
 
 ---
 
