@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **PHP, SQL**  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js, MERN Stack**  
 - 🤝 I'm looking to collaborate on **Web Development Projects**  
-- 💼 All of my projects are available at [redwan's room](#) *(Coming Soon)*  
+- 💼 All of my projects are available at [redwan's room](https://redwan786.github.io/portfolio/) *(Coming Soon)*  
 - 📫 How to reach me: **me.redwanhossen@gmail.com**  
 
 ---
