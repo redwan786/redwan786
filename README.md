@@ -15,7 +15,6 @@
 # Projects:
 [![QuickBites](https://img.shields.io/badge/Project-QuickBites-orange?style=for-the-badge)](https://quickbites-redwan007.vercel.app/)
 
-### QuickBites
 [![QuickBites Preview](https://via.placeholder.com/800x400?text=QuickBites+Project)](https://quickbites-redwan007.vercel.app/)
 
 
