@@ -20,7 +20,7 @@
 ## 🌐 Socials:  
 [![GitHub](https://img.shields.io/badge/GitHub-1F2328?logo=gitHub&logoColor=white)](https://github.com/redwan786)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3681CD?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/redwan786)  
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/redONE786)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/redwan.247/)
 
 ---
 
