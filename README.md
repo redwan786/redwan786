@@ -167,8 +167,8 @@ A lightweight, dependency-free drawing & note-taking board built with vanilla Ja
 
 ## 📊 GitHub Activity
 
-<img src="https://githubreadmestatsfast.vercel.app/api?username=redwan786&show_icons=true&hide_border=true&bg_color=00000000&title_color=C026D3&icon_color=7C3AED&text_color=6B7280&border_radius=10" height="165"/>
-<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=redwan786&layout=compact&hide_border=true&bg_color=00000000&title_color=C026D3&text_color=6B7280&border_radius=10" height="165"/>
+<img src="https://github-readme-stats-rho-seven-79.vercel.app/api?username=redwan786&show_icons=true&hide_border=true&bg_color=00000000&title_color=C026D3&icon_color=7C3AED&text_color=6B7280&border_radius=10" height="165"/>
+<img src="https://github-readme-stats-rho-seven-79.vercel.app/api/top-langs/?username=redwan786&layout=compact&hide_border=true&bg_color=00000000&title_color=C026D3&text_color=6B7280&border_radius=10" height="165"/>
 
 <br/>
 
