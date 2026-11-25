@@ -155,14 +155,17 @@ Ongoing bachelor’s thesis on explainable, ensemble-based deep learning for che
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🚌 Navigator (BusOrb)
+A trio-built Flutter Android bus booking app for inter-city travel, featuring visual seat reservations, live location tracking, and an operator dashboard for routes, pricing, and fleet management.
+
+`Flutter` `Android`
+
+</td>
+</tr>
 </table>
-
-<div align="center">
-
-**🚌 Navigator (BusOrb)** — a trio-built Flutter Android bus booking app with an interactive, visual seat reservation system, live location tracking, and an operator admin dashboard for routes, pricing & fleet.
-<br/>`Flutter` `Android`
-
-</div>
 
 <br/>
 
