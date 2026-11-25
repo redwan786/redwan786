@@ -1,12 +1,12 @@
 <h1 align="center">Md. Redwan Hossen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3200&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Final-Year+CSE+Student+at+AUST%2C+Dhaka;React+%C2%B7+TypeScript+%C2%B7+ASP.NET+Core+MVC;Building+AI-Powered+Full-Stack+Applications;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3200&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Final-Year%2C+Final-Semester+CSE+Student+at+AUST;React+%C2%B7+TypeScript+%C2%B7+ASP.NET+Core+MVC;Building+AI-Powered+Full-Stack+Applications;Open+to+Software+Engineering+Internships" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://redwanhossen.site"><img src="https://img.shields.io/badge/Portfolio-redwanhossen.site-2563EB?style=flat-square"/></a>
-  <a href="mailto:mdredwanhossen21@gmail.com"><img src="https://img.shields.io/badge/Email-mdredwanhossen21%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:me.redwanhossen@gmail.com"><img src="https://img.shields.io/badge/Email-me.redwanhossen%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/redwan786"><img src="https://img.shields.io/badge/LinkedIn-redwan786-2563EB?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/redwan786"><img src="https://img.shields.io/badge/GitHub-redwan786-2563EB?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
@@ -14,8 +14,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=redwan786&label=Profile%20Views&color=2563EB&style=flat-square"/>
 </p>
-
-</div>
 
 <br/>
 
@@ -25,11 +23,11 @@
 
 ## 👋 A Little About Me
 
-I'm a **final-year Computer Science & Engineering student** at Ahsanullah University of Science and Technology (AUST), Dhaka, and a **full-stack developer** who enjoys taking an idea all the way from database schema to a live, deployed product.
+I'm a **final-year, final-semester Computer Science & Engineering student** at Ahsanullah University of Science and Technology (AUST), Dhaka, and a **full-stack developer** who enjoys taking an idea all the way from database schema to a live, deployed product.
 
 My work spans **React, TypeScript, ASP.NET Core MVC, and Python** — with a growing focus on **AI-powered applications**. For my bachelor's thesis, I'm building an explainable, ensemble-based deep learning framework that classifies chest X-rays (Normal, COVID-19, Pneumonia, Tuberculosis) across 7 architectures, including ResNet50, DenseNet121, EfficientNet, ViT, ConvNeXt, and Swin Transformer.
 
-Outside of coursework, I build and ship personal products end-to-end — full-stack web apps, browser extensions, and self-hosted infrastructure.
+Outside of coursework, I build and ship personal products end-to-end — full-stack web apps, browser extensions, and self-hosted infrastructure. I also practice problem solving on Codeforces using C++.
 
 <br/>
 
@@ -41,7 +39,7 @@ Outside of coursework, I build and ship personal products end-to-end — full-st
 
 ## 🧰 Skills & Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,dotnet,cs,cpp,c,docker,git,tailwind,vite,html,css,mysql,postgres,mongodb,firebase&theme=light&perline=10"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,dotnet,cs,cpp,c,docker,git,tailwind,vite,html,css,mysql,postgres,mongodb,firebase,flutter,laravel&theme=light&perline=10"/>
 
 </div>
 
@@ -51,10 +49,14 @@ Outside of coursework, I build and ship personal products end-to-end — full-st
 <img src="https://img.shields.io/badge/Python-4C1D95?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-C026D3?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-4C1D95?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2FC%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-C026D3?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-4C1D95?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-C026D3?style=flat-square&logo=mongodb&logoColor=white"/>
 
 **Frameworks & Libraries**
-<img src="https://img.shields.io/badge/React.js-4C1D95?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-C026D3?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-4C1D95?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-4C1D95?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-C026D3?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-4C1D95?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-7C3AED?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-C026D3?style=flat-square&logo=laravel&logoColor=white"/>
 
 **Tools & DevOps**
 <img src="https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-C026D3?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-4C1D95?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare_Workers-7C3AED?style=flat-square&logo=cloudflareworkers&logoColor=white"/> <img src="https://img.shields.io/badge/Git-C026D3?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Capacitor-4C1D95?style=flat-square&logo=capacitor&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square"/>
+
+**AI Tools**
+
+Claude Code · Codex · Cursor · Hermes · Google Antigravity · Lovable · Bolt
 
 **Other Skills**
 <img src="https://img.shields.io/badge/Advanced_Excel-C026D3?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Analysis-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/Digital_Marketing-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Deployment-C026D3?style=flat-square"/> <img src="https://img.shields.io/badge/Problem_Solving-4C1D95?style=flat-square"/>
@@ -104,7 +106,7 @@ Privacy-focused, self-hosted email system running on your own infrastructure, us
 <td width="50%" valign="top">
 
 ### 📁 TeleGallery
-Telegram-powered media workspace to browse, search, organize, favorite, and recover Telegram photos/videos — also shipped as a native Android app via Capacitor.
+Telegram-powered media workspace to browse, search, organize, favorite, and recover Telegram photos/videos — also packaged as an Android APK via Capacitor.
 
 `React 19` `Vite` `Capacitor`
 
@@ -136,10 +138,18 @@ A lightweight, dependency-free drawing & note-taking board built with vanilla Ja
 </tr>
 </table>
 
+### 🚗 2D Car Game using iGraphics
+A semester 1.2 academic project built in C/C++ with iGraphics, featuring animation, keyboard and mouse controls, and collision detection.
+
+`C` `C++` `iGraphics`
+
+### 🩻 Chest X-Ray Multi-Disease Classification
+Ongoing bachelor’s thesis on explainable, ensemble-based deep learning for chest X-ray classification across seven architectures. [View project](https://chest-xray.redwan007.dpdns.org/)
+
 <div align="center">
 
-**🚌 Navigator (BusOrb)** — a trio-built bus booking platform with an interactive, visual seat reservation system, live location tracking, and an operator admin dashboard for routes, pricing & fleet.
-<br/>`React` `Node.js`
+**🚌 Navigator (BusOrb)** — a trio-built Flutter Android bus booking app with an interactive, visual seat reservation system, live location tracking, and an operator admin dashboard for routes, pricing & fleet.
+<br/>`Flutter` `Android`
 
 </div>
 
@@ -153,7 +163,7 @@ A lightweight, dependency-free drawing & note-taking board built with vanilla Ja
 
 | | |
 |---|---|
-| 🏫 **BSc in CSE** *(Final Year)* | Ahsanullah University of Science and Technology (AUST), Dhaka |
+| 🏫 **BSc in CSE** *(Final Year, Final Semester)* | Ahsanullah University of Science and Technology (AUST), Dhaka |
 | 📘 **HSC — GPA 5.00** | Dhaka Residential Model College, Dhaka Board |
 | 📗 **SSC — GPA 5.00** | Nalta High School, Jashore Board |
 
@@ -191,7 +201,7 @@ Open to **Software Engineering internships** and **junior developer roles**.
 <a href="https://redwanhossen.site"><img src="https://img.shields.io/badge/Portfolio-redwanhossen.site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/redwan786"><img src="https://img.shields.io/badge/GitHub-redwan786-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/redwan786"><img src="https://img.shields.io/badge/LinkedIn-redwan786-C026D3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mdredwanhossen21@gmail.com"><img src="https://img.shields.io/badge/Email-mdredwanhossen21%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:me.redwanhossen@gmail.com"><img src="https://img.shields.io/badge/Email-me.redwanhossen%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
